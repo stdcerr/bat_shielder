@@ -1,2 +1,2 @@
 # bat_shielder
-bat shielder help to preserve your laptops battery
+bat shielder helps to preserve your laptop's battery
